@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lozan\\Desktop\\UsersCRUD.WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECDC4D4-7D44-4C4E-A0F0-34886144AD01}|UsersCRUD.WinForms\\UsersCRUD.WinForms.vbproj|c:\\users\\lozan\\desktop\\userscrud.winforms\\userscrud.winforms\\dataaccess\\userdal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3ECDC4D4-7D44-4C4E-A0F0-34886144AD01}|UsersCRUD.WinForms\\UsersCRUD.WinForms.vbproj|solutionrelative:userscrud.winforms\\dataaccess\\userdal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECDC4D4-7D44-4C4E-A0F0-34886144AD01}|UsersCRUD.WinForms\\UsersCRUD.WinForms.vbproj|c:\\users\\lozan\\desktop\\userscrud.winforms\\userscrud.winforms\\forms\\frmusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3ECDC4D4-7D44-4C4E-A0F0-34886144AD01}|UsersCRUD.WinForms\\UsersCRUD.WinForms.vbproj|solutionrelative:userscrud.winforms\\forms\\frmusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECDC4D4-7D44-4C4E-A0F0-34886144AD01}|UsersCRUD.WinForms\\UsersCRUD.WinForms.vbproj|c:\\users\\lozan\\desktop\\userscrud.winforms\\userscrud.winforms\\utilities\\dbconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3ECDC4D4-7D44-4C4E-A0F0-34886144AD01}|UsersCRUD.WinForms\\UsersCRUD.WinForms.vbproj|solutionrelative:userscrud.winforms\\utilities\\dbconnection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ECDC4D4-7D44-4C4E-A0F0-34886144AD01}|UsersCRUD.WinForms\\UsersCRUD.WinForms.vbproj|c:\\users\\lozan\\desktop\\userscrud.winforms\\userscrud.winforms\\forms\\frmusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3ECDC4D4-7D44-4C4E-A0F0-34886144AD01}|UsersCRUD.WinForms\\UsersCRUD.WinForms.vbproj|solutionrelative:userscrud.winforms\\forms\\frmusers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDAL.vb",
+              "DocumentMoniker": "C:\\Users\\lozan\\Desktop\\UsersCRUD.WinForms\\UsersCRUD.WinForms\\DataAccess\\UserDAL.vb",
+              "RelativeDocumentMoniker": "UsersCRUD.WinForms\\DataAccess\\UserDAL.vb",
+              "ToolTip": "C:\\Users\\lozan\\Desktop\\UsersCRUD.WinForms\\UsersCRUD.WinForms\\DataAccess\\UserDAL.vb",
+              "RelativeToolTip": "UsersCRUD.WinForms\\DataAccess\\UserDAL.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-18T06:50:59.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbConnection.vb",
+              "DocumentMoniker": "C:\\Users\\lozan\\Desktop\\UsersCRUD.WinForms\\UsersCRUD.WinForms\\Utilities\\DbConnection.vb",
+              "RelativeDocumentMoniker": "UsersCRUD.WinForms\\Utilities\\DbConnection.vb",
+              "ToolTip": "C:\\Users\\lozan\\Desktop\\UsersCRUD.WinForms\\UsersCRUD.WinForms\\Utilities\\DbConnection.vb",
+              "RelativeToolTip": "UsersCRUD.WinForms\\Utilities\\DbConnection.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-18T06:42:11.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmUsers.vb",
+              "DocumentMoniker": "C:\\Users\\lozan\\Desktop\\UsersCRUD.WinForms\\UsersCRUD.WinForms\\Forms\\FrmUsers.vb",
+              "RelativeDocumentMoniker": "UsersCRUD.WinForms\\Forms\\FrmUsers.vb",
+              "ToolTip": "C:\\Users\\lozan\\Desktop\\UsersCRUD.WinForms\\UsersCRUD.WinForms\\Forms\\FrmUsers.vb",
+              "RelativeToolTip": "UsersCRUD.WinForms\\Forms\\FrmUsers.vb",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-18T04:32:07.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmUsers.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lozan\\Desktop\\UsersCRUD.WinForms\\UsersCRUD.WinForms\\Forms\\FrmUsers.vb",
+              "RelativeDocumentMoniker": "UsersCRUD.WinForms\\Forms\\FrmUsers.vb",
+              "ToolTip": "C:\\Users\\lozan\\Desktop\\UsersCRUD.WinForms\\UsersCRUD.WinForms\\Forms\\FrmUsers.vb [Dise\u00F1o]",
+              "RelativeToolTip": "UsersCRUD.WinForms\\Forms\\FrmUsers.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-18T04:13:41.199Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

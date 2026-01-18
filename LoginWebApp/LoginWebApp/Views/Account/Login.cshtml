@@ -1,0 +1,27 @@
+﻿@model LoginWebApp.Models.UserLogin
+
+<h2>Login</h2>
+
+@Html.ValidationSummary(true, "", new { style="color:red" })
+
+@if (TempData["Success"] != null)
+{
+    <p style="color:green">@TempData["Success"]</p>
+}
+
+<form asp-action="Login" method="post" autocomplete="off">
+    <div>
+        <label>Username</label><br />
+        <input asp-for="Username" />
+    </div>
+    <div>
+        <label>Password</label><br />
+        <input asp-for="Password" type="password" value="" />
+    </div>
+    <br />
+    <button type="submit">Sign In</button>
+    <p style="color:red">@ViewBag.Error</p>
+</form>
+
+<hr />
+<a asp-action="Register">Create new account</a>
