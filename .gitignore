@@ -1,0 +1,14 @@
+# Archivos binarios y obj
+bin/
+obj/
+
+# Configuraciones de usuario
+*.user
+*.suo
+*.vs/
+*.vscode/
+
+# Archivos de base de datos locales (si los hubiera)
+*.mdf
+*.ldf
+*.log
